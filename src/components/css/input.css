@@ -1,0 +1,23 @@
+.input {
+  display: flex;
+  background-color: #212121;
+  padding: 20px;
+  /* width: 50%; */
+  color: #ffffff;
+  /* height: 70px; */
+  align-items: center;
+  box-shadow: 1px 8px 12px 3px rgba(0, 0, 0, 0.68);
+}
+input {
+  border-bottom: 1px solid black;
+  padding: 4px;
+  /* width: 100px; */
+  margin-left: 70px;
+  border-radius: 4px;
+  text-align: justify;
+}
+
+.svg_icons {
+  margin-left: 20px;
+  transform: scale(2);
+}

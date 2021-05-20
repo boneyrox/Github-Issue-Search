@@ -1,0 +1,22 @@
+#paginate-style {
+  display: flex;
+  margin: 0 auto;
+  width: 50%;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.page-item {
+    box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.75);
+    margin-left: 30px;
+}
+
+.page-link {
+  color: #fff;
+  background-color: #212121;
+}
+
+.page-link:hover {
+  background-color: #212121d7;
+  color: rgb(255, 60, 0);
+}
